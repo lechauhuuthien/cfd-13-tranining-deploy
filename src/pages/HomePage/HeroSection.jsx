@@ -34,7 +34,7 @@ const HeroSection = () => {
         <div className="container">
           <h1 className="title --white">
             Học Viện Đào Tạo
-            <br /> Lập Trình Front-End Thực Chiến
+            <br /> Lập Trình BACK-End Thực Chiến
           </h1>
           <p className="text">
             Dạy từ kinh nghiệm, học từ thực tế để tạo ra sản phẩm có giá trị.
